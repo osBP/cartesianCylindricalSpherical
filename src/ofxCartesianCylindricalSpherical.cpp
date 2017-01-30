@@ -1,6 +1,6 @@
 //
 //  ofxCartesianCylindricalSpherical.cpp
-//  Todo_El_Ruido_01
+// 
 //
 //  Created by Oscar David Bravo Peña on 11/27/16.
 //
